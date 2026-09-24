@@ -2,6 +2,8 @@
 
 _Created: 14-06-2026 · Last updated: 11-07-2026_
 
+**Status: name-reservation** (24-09-2026) — this repository reserves the name; no active content yet. See [consolidation study §4e](https://github.com/gasyoun/Uprava/blob/main/CONSOLIDATION_SPIKE_REPOLESS_DICTIONARIES_THIN_VIEW_REPOS_2026Q3.md).
+
 A small text-study workspace for the **Nalopākhyāna** (नलोपाख्यान) — the Nala
 and Damayantī episode of the *Āraṇyaka-parvan* (Book of the Forest) of the
 *Mahābhārata*. Content here is in **Russian**.
